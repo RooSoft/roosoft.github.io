@@ -8,5 +8,5 @@ Welcoming anyone to discuss and contribute
 
 ### Projects
 
-- [steer](http://github.com/roosoft/steer)
-- [igniter 🔥](http://github.com/roosoft/igniter)
+- [steer](http://github.com/roosoft/steer), a mobile first Lightning Network node operator management web interface
+- [igniter 🔥](http://github.com/roosoft/igniter), a script to ignite rings of fire
