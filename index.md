@@ -1,10 +1,8 @@
-## RooSoft
-
 Busy writing open source apps built on top of Bitcoin's Lightning Network
 
 Welcoming anyone to discuss and contribute
 
-- [http://github.com/roosoft](GitHub)
+- [GitHub](http://github.com/roosoft)
 - @roosoft on Telegram
 - @roosoft on Twitter
 
