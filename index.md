@@ -2,11 +2,11 @@ Busy writing open source apps built on top of Bitcoin's Lightning Network
 
 Welcoming anyone to discuss and contribute
 
-- [GitHub](http://github.com/roosoft)
-- @roosoft on Telegram
-- @roosoft on Twitter
+- [GitHub](https://github.com/roosoft)
+- [@roosoft](https://t.me/roosoft) on Telegram
+- [@roosoft](https://twitter.com/roosoft) on Twitter
 
 ### Projects
 
-- [http://github.com/roosoft/steer](Steer)
-- [http://github.com/roosoft/igniter](Igniter)
+- [steer](http://github.com/roosoft/steer)
+- [igniter 🔥](http://github.com/roosoft/igniter)
